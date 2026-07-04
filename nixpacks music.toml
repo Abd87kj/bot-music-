@@ -1,2 +1,0 @@
-[phases.setup]
-aptPkgs = ["ffmpeg", "libjpeg-dev", "zlib1g-dev", "fontconfig"]
